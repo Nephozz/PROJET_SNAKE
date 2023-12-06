@@ -1,0 +1,3 @@
+# BE : SNAKE
+Travail réalisé dans le cadre d'un BE d'algorithmique consacré à la conception du jeu *Snake*.
+Dans ce jeu, le joueur doit commander les déplacements d'un serpent à l'intérieur d'un stade dimensionné par lui-même. Le joueur doit diriger son serpent vers des pommes afin d'allonger sa longueur et d'augmenter son score. Cependant, il y a certaines règles à respecter. En effet, la tête du serpent ne doit pas toucher les extrémités du stade ni toucher sa propre queue sous peine de perdre la partie. Tous les paramètres du jeu sont modifiables : le joueur peut choisir 3 niveaux de difficultés, modifier la couleur du serpent et du stade ou encore dimensionner le stade comme il le souhaite.
